@@ -1,7 +1,7 @@
 const
     axios = require('axios'),
     gitlabBaseUrl = "https://rdgit.lumenis.com/api/v4",
-    gitlabToken = "glpat-XPhGazifb1h7gSzu-ryg";
+    gitlabToken = "";
 
 function headers() {
     return {
